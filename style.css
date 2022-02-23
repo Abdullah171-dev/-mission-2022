@@ -21,6 +21,7 @@ p {
 .container-section {
   display: flex;
   padding-top: 100px;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
@@ -74,4 +75,14 @@ p {
   border-radius: 5%;
   margin-left: 1.5%;
   padding: 20px 0px 0 10px;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+  padding: 10px 0;
+}
+
+footer p {
+  text-align: center;
 }
